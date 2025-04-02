@@ -1,7 +1,3 @@
- /\_/\  
-( o.o ) 
- > ^ <
-
 # Hi there, I'm Yuta 👋
 
 💻 Web Programmer | 🔧 IT Consultant | 🖥️ Full-Stack Developer  
