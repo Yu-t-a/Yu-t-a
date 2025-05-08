@@ -20,15 +20,12 @@
 - 📩 Contact me at: weerayut.dev@gmail.com
   
 ## 📖 Currently Learning
-- Docker   
 - Terraform
 - Kubernetes
 - Sonarqube
 - Jenkins
 - OWASP ZAP
 - GitLab
-- Grafana
-- Prometheus
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yu-t-a&show_icons=true&theme=tokyonight)
 
