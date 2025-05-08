@@ -13,15 +13,22 @@
 💻 Web Programmer | 🔧 IT Consultant | 🖥️ Full-Stack Developer  
 
 ## 🚀 About Me  
-- 🌐 Tech Stack: Angular, Node.js, MongoDB, SQL ,Python, PHP, JavaScript, Java
+- 🌐 Tech Stack: Node.js, MongoDB, SQL ,Python, PHP, JavaScript, Java, TypeScript
 - 📊 Monitoring: Prometheus, Grafana ,uptime kuma
 - 🛠️ DevOps: Docker, Apache, Nginx, VMware  
 - 📡 Networking: FortiGate, DNS, Cloudflare  
 - 📩 Contact me at: weerayut.dev@gmail.com
   
 ## 📖 Currently Learning
-- Angular  
-- TypeScript
+- Docker   
+- Terraform
+- Kubernetes
+- Sonarqube
+- Jenkins
+- OWASP ZAP
+- GitLab
+- Grafana
+- Prometheus
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yu-t-a&show_icons=true&theme=tokyonight)
 
